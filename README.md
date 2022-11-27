@@ -7,7 +7,7 @@
 
 ## Submission file contains: <br/>
 
-- README.md
+- `README.md`
 - MySQL file `dumdum.mysql`, with a pre-populated database
 - Python code `code.py`, with 16 different queries
 - Phase 3 file containing the relational model `phase3.pdf`
