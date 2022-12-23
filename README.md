@@ -1,7 +1,7 @@
 
-# Team 47 | Project Phase 4
+# Public Transport Database
 
-#### Anuhya Nallapati (2021101076), Nanda Rajiv (2021115002), Arghya Roy (2021115008)
+#### Anuhya Nallapati, Nanda Rajiv, Arghya Roy
 
 <br/>
 
