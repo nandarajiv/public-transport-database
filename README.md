@@ -3,9 +3,8 @@
 
 #### Anuhya Nallapati, Nanda Rajiv, Arghya Roy
 
-<br/>
 
-## Submission file contains: <br/>
+## 
 
 - `README.md`
 - MySQL file `dumdum.mysql`, with a pre-populated database
