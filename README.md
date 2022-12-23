@@ -11,7 +11,7 @@
 - MySQL file `dumdum.mysql`, with a pre-populated database
 - Python code `code.py`, with 16 different queries
 - Phase 3 file containing the relational model `phase3.pdf`
-- Screen-recorded video `47.mp4`, demonstrating one query of each type - insert, update and delete (selected 14 to demonstrate, of a total of 16 queries designed) <br/> <br/>
+- Screen-recorded video `demo.mp4`, demonstrating one query of each type - insert, update and delete (selected 14 to demonstrate, of a total of 16 queries designed) <br/> <br/>
 
 ## Steps:
 1. (optional) On one terminal, launch MySQL on the system as `mysql -u root -p` and enter username and password. <br/>
